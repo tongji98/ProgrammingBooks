@@ -7,3 +7,5 @@ https://velog.io/@embeddedjune?tag=%EC%9E%84%EB%B2%A0%EB%94%94%EB%93%9C
 
 임베디드 레시피
 http://recipes.tistory.com/
+
+알라딘] C 함정과 실수 - http://aladin.kr/p/TFHGJ
